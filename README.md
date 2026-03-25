@@ -99,6 +99,10 @@ Shadcn UI itself requires no npm package — the CLI copies component source cod
 
 Current skill version: **2.0.0**
 
+## Credits
+ 
+Created by [Alessandro Caprai](https://caprai.dev/en) — AI solutions development, business process optimization, and AI training.
+
 ## License
 
 This skill is provided as-is for use with Claude Code. Shadcn UI itself is open source — see the [official repository](https://github.com/shadcn-ui/ui) for its license.
